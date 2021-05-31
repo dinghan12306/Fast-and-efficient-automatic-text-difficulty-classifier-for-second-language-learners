@@ -1,7 +1,7 @@
 # Fast-and-efficient-automatic-text-difficulty-classifier-for-second-language-learners
 
 
-![image](https://user-images.githubusercontent.com/46080091/120168677-bae9c280-c231-11eb-801c-666e64cd8d63.png)
+![image](https://user-images.githubusercontent.com/46080091/120168853-ebc9f780-c231-11eb-8d8a-c3d6143ca211.png)
 
 
 
